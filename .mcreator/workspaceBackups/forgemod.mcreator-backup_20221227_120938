@@ -23,12 +23,31 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "spawn"
+    },
+    {
+      "name": "Forgemod",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "forgemod"
+    },
+    {
+      "name": "RedLamp",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_lamp"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "itemGroup.tabforgemod": "Forgemod",
+      "block.forgemod.red_lamp": "Red Lamp"
+    }
   },
   "foldersRoot": {
     "name": "~",

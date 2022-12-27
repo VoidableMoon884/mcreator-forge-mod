@@ -39,6 +39,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_lamp"
+    },
+    {
+      "name": "RedLampcrafting",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_lampcrafting"
     }
   ],
   "variable_elements": [],
