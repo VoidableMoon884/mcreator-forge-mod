@@ -1,4 +1,7 @@
 {
   "itemGroup.tabforgemod": "Forgemod",
-  "block.forgemod.red_lamp": "Red Lamp"
+  "block.forgemod.blue_lamp": "Red Lamp",
+  "block.forgemod.yellow_lamp": "Red Lamp",
+  "block.forgemod.red_lamp": "Red Lamp",
+  "block.forgemod.green_lamp": "Red Lamp"
 }

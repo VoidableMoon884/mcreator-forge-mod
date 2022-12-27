@@ -47,6 +47,70 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_lampcrafting"
+    },
+    {
+      "name": "YellowLamp",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_lamp"
+    },
+    {
+      "name": "YellowLampcrafting",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_lampcrafting"
+    },
+    {
+      "name": "GreenLampcrafting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_lampcrafting"
+    },
+    {
+      "name": "GreenLamp",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_lamp"
+    },
+    {
+      "name": "BlueLamp",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_lamp"
+    },
+    {
+      "name": "BlueLampcrafting",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_lampcrafting"
+    },
+    {
+      "name": "BlueLampcrafting2",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_lampcrafting_2"
+    },
+    {
+      "name": "GrenLampcrafting2",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gren_lampcrafting_2"
     }
   ],
   "variable_elements": [],
@@ -54,7 +118,10 @@
   "language_map": {
     "en_us": {
       "itemGroup.tabforgemod": "Forgemod",
-      "block.forgemod.red_lamp": "Red Lamp"
+      "block.forgemod.blue_lamp": "Red Lamp",
+      "block.forgemod.yellow_lamp": "Red Lamp",
+      "block.forgemod.red_lamp": "Red Lamp",
+      "block.forgemod.green_lamp": "Red Lamp"
     }
   },
   "foldersRoot": {

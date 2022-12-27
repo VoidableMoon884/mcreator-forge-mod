@@ -39,6 +39,22 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_lamp"
+    },
+    {
+      "name": "RedLampcrafting",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_lampcrafting"
+    },
+    {
+      "name": "YellowLamp",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_lamp"
     }
   ],
   "variable_elements": [],
@@ -46,6 +62,7 @@
   "language_map": {
     "en_us": {
       "itemGroup.tabforgemod": "Forgemod",
+      "block.forgemod.yellow_lamp": "Red Lamp",
       "block.forgemod.red_lamp": "Red Lamp"
     }
   },

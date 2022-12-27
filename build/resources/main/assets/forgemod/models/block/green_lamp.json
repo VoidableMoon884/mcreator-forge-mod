@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "forgemod:blocks/green_lamp",
+    "up": "forgemod:blocks/green_lamp",
+    "north": "forgemod:blocks/green_lamp",
+    "east": "forgemod:blocks/green_lamp",
+    "south": "forgemod:blocks/green_lamp",
+    "west": "forgemod:blocks/green_lamp",
+    "particle": "forgemod:blocks/green_lamp"
+  },
+  "render_type": "solid"
+}
