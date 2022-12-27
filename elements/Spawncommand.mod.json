@@ -1,0 +1,7 @@
+{
+  "_fv": 34,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"event_trigger\" deletable=\"false\" x=\"32\" y=\"42\"><field name=\"trigger\">no_ext_trigger</field><next><block type=\"get_command_parameter_entities_foreach\"><field name=\"param\">targets</field><comment pinned=\"false\" h=\"222\" w=\"237\">For every entity concerned from the entity argument, we telport them to coordinates provided by the block argument. The relative coordinates and special cases are handled by Minecraft itself, so we just need to get each coordinate.This procedure can only be used at the end of the entity argument tree as every other call procedure block do not specify an entity and a block arguments.</comment><value name=\"_placeholder\"><block type=\"entity_iterator\"></block></value><statement name=\"foreach\"><block type=\"move_entity\"><value name=\"entity\"><block type=\"entity_iterator\"></block></value><value name=\"x\"><block type=\"get_command_parameter_blockpos_x\"><field name=\"param\">0</field></block></value><value name=\"y\"><block type=\"get_command_parameter_blockpos_y\"><field name=\"param\">0</field></block></value><value name=\"z\"><block type=\"get_command_parameter_blockpos_z\"><field name=\"param\">60</field></block></value></block></statement></block></next></block></xml>"
+  }
+}
