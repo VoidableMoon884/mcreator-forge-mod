@@ -31,13 +31,30 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "forgemod"
+    },
+    {
+      "name": "RedLamp",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_lamp"
+    },
+    {
+      "name": "RedLampcrafting",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_lampcrafting"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "itemGroup.tabforgemod": "Forgemod"
+      "itemGroup.tabforgemod": "Forgemod",
+      "block.forgemod.red_lamp": "Red Lamp"
     }
   },
   "foldersRoot": {
