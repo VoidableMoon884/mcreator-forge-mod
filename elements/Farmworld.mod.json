@@ -1,0 +1,42 @@
+{
+  "_fv": 34,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Farmworldbiome"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "Blocks.WATER"
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "Blocks.STONE#0"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 5,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Farmworld Flint and Steel",
+    "igniterTab": {
+      "value": "CUSTOM:Forgemod"
+    },
+    "texture": "flint_and_steel",
+    "portalTexture": "stone",
+    "enablePortal": true
+  }
+}

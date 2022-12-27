@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "forgemod:block/farmworld_portal_ew"
+    },
+    "axis=x": {
+      "model": "forgemod:block/farmworld_portal_ns"
+    }
+  }
+}

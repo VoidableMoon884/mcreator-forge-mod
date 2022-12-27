@@ -13,6 +13,7 @@ import net.minecraft.world.level.block.Block;
 import net.mcreator.forgemod.block.YellowLampBlock;
 import net.mcreator.forgemod.block.RedLampBlock;
 import net.mcreator.forgemod.block.GreenLampBlock;
+import net.mcreator.forgemod.block.FarmworldPortalBlock;
 import net.mcreator.forgemod.block.BlueLampBlock;
 import net.mcreator.forgemod.ForgemodMod;
 
@@ -22,4 +23,5 @@ public class ForgemodModBlocks {
 	public static final RegistryObject<Block> YELLOW_LAMP = REGISTRY.register("yellow_lamp", () -> new YellowLampBlock());
 	public static final RegistryObject<Block> GREEN_LAMP = REGISTRY.register("green_lamp", () -> new GreenLampBlock());
 	public static final RegistryObject<Block> BLUE_LAMP = REGISTRY.register("blue_lamp", () -> new BlueLampBlock());
+	public static final RegistryObject<Block> FARMWORLD_PORTAL = REGISTRY.register("farmworld_portal", () -> new FarmworldPortalBlock());
 }

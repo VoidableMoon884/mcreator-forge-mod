@@ -111,6 +111,25 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "gren_lampcrafting_2"
+    },
+    {
+      "name": "Farmworldbiome",
+      "type": "biome",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "farmworldbiome"
+    },
+    {
+      "name": "Farmworld",
+      "type": "dimension",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "farmworld",
+      "metadata": {
+        "ep": true
+      }
     }
   ],
   "variable_elements": [],
@@ -121,7 +140,9 @@
       "block.forgemod.blue_lamp": "Red Lamp",
       "block.forgemod.yellow_lamp": "Red Lamp",
       "block.forgemod.red_lamp": "Red Lamp",
-      "block.forgemod.green_lamp": "Red Lamp"
+      "biome.forgemod.farmworldbiome": "Farmworldbiome",
+      "block.forgemod.green_lamp": "Red Lamp",
+      "item.forgemod.farmworld": "Farmworld Flint and Steel"
     }
   },
   "foldersRoot": {

@@ -32,6 +32,7 @@ import net.minecraft.network.FriendlyByteBuf;
 import net.mcreator.forgemod.init.ForgemodModTabs;
 import net.mcreator.forgemod.init.ForgemodModItems;
 import net.mcreator.forgemod.init.ForgemodModBlocks;
+import net.mcreator.forgemod.init.ForgemodModBiomes;
 
 import java.util.function.Supplier;
 import java.util.function.Function;
@@ -53,6 +54,7 @@ public class ForgemodMod {
 		ForgemodModBlocks.REGISTRY.register(bus);
 		ForgemodModItems.REGISTRY.register(bus);
 
+		ForgemodModBiomes.REGISTRY.register(bus);
 	}
 
 	private static final String PROTOCOL_VERSION = "1";

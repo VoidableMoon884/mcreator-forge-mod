@@ -4,7 +4,6 @@
  */
 package net.mcreator.forgemod.init;
 
-import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.CreativeModeTab;
 
@@ -15,7 +14,7 @@ public class ForgemodModTabs {
 		TAB_FORGEMOD = new CreativeModeTab("tabforgemod") {
 			@Override
 			public ItemStack makeIcon() {
-				return new ItemStack(Blocks.AIR);
+				return new ItemStack(ForgemodModBlocks.BLUE_LAMP.get());
 			}
 
 			@Override

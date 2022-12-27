@@ -3,5 +3,7 @@
   "block.forgemod.blue_lamp": "Red Lamp",
   "block.forgemod.yellow_lamp": "Red Lamp",
   "block.forgemod.red_lamp": "Red Lamp",
-  "block.forgemod.green_lamp": "Red Lamp"
+  "biome.forgemod.farmworldbiome": "Farmworldbiome",
+  "block.forgemod.green_lamp": "Red Lamp",
+  "item.forgemod.farmworld": "Farmworld Flint and Steel"
 }
