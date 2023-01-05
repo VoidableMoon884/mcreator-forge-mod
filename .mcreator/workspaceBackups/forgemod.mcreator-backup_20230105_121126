@@ -137,11 +137,11 @@
   "language_map": {
     "en_us": {
       "itemGroup.tabforgemod": "Forgemod",
-      "block.forgemod.blue_lamp": "Red Lamp",
-      "block.forgemod.yellow_lamp": "Red Lamp",
+      "block.forgemod.blue_lamp": "Blue Lamp",
+      "block.forgemod.yellow_lamp": "Yellow Lamp",
       "block.forgemod.red_lamp": "Red Lamp",
       "biome.forgemod.farmworldbiome": "Farmworldbiome",
-      "block.forgemod.green_lamp": "Red Lamp",
+      "block.forgemod.green_lamp": "Green Lamp",
       "item.forgemod.farmworld": "Farmworld Flint and Steel"
     }
   },
@@ -153,7 +153,7 @@
     "modid": "forgemod",
     "modName": "forge-mod",
     "version": "1.0.0",
-    "author": "Marlin, MCreator",
+    "author": "Nogacity",
     "websiteURL": "https://mcreator.net",
     "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,
@@ -161,9 +161,7 @@
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
-    "mcreatorDependencies": [
-      "mcreator_link"
-    ],
+    "mcreatorDependencies": [],
     "currentGenerator": "forge-1.19.2",
     "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.forgemod",
