@@ -1,9 +1,9 @@
 {
   "itemGroup.tabforgemod": "Forgemod",
-  "block.forgemod.blue_lamp": "Red Lamp",
-  "block.forgemod.yellow_lamp": "Red Lamp",
+  "block.forgemod.blue_lamp": "Blue Lamp",
+  "block.forgemod.yellow_lamp": "Yellow Lamp",
   "block.forgemod.red_lamp": "Red Lamp",
   "biome.forgemod.farmworldbiome": "Farmworldbiome",
-  "block.forgemod.green_lamp": "Red Lamp",
+  "block.forgemod.green_lamp": "Green Lamp",
   "item.forgemod.farmworld": "Farmworld Flint and Steel"
 }

@@ -1,0 +1,171 @@
+{
+  "mod_elements": [
+    {
+      "name": "Spawncommand",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spawncommand",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "arguments",
+            "type": "cmdcontext"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Spawn",
+      "type": "command",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spawn"
+    },
+    {
+      "name": "Forgemod",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "forgemod"
+    },
+    {
+      "name": "RedLamp",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_lamp"
+    },
+    {
+      "name": "RedLampcrafting",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_lampcrafting"
+    },
+    {
+      "name": "YellowLamp",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_lamp"
+    },
+    {
+      "name": "YellowLampcrafting",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_lampcrafting"
+    },
+    {
+      "name": "GreenLampcrafting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_lampcrafting"
+    },
+    {
+      "name": "GreenLamp",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_lamp"
+    },
+    {
+      "name": "BlueLamp",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_lamp"
+    },
+    {
+      "name": "BlueLampcrafting",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_lampcrafting"
+    },
+    {
+      "name": "BlueLampcrafting2",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_lampcrafting_2"
+    },
+    {
+      "name": "GrenLampcrafting2",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gren_lampcrafting_2"
+    },
+    {
+      "name": "Farmworldbiome",
+      "type": "biome",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "farmworldbiome"
+    },
+    {
+      "name": "Farmworld",
+      "type": "dimension",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "farmworld",
+      "metadata": {
+        "ep": true
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabforgemod": "Forgemod",
+      "block.forgemod.blue_lamp": "Red Lamp",
+      "block.forgemod.yellow_lamp": "Red Lamp",
+      "block.forgemod.red_lamp": "Red Lamp",
+      "biome.forgemod.farmworldbiome": "Farmworldbiome",
+      "block.forgemod.green_lamp": "Red Lamp",
+      "item.forgemod.farmworld": "Farmworld Flint and Steel"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "forgemod",
+    "modName": "forge-mod",
+    "version": "1.0.0",
+    "author": "Nogacity",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.forgemod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}
